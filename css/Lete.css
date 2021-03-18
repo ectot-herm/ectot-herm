@@ -129,5 +129,15 @@ a {
 }
 /* 博主昵称颜色 */
 .author-info__name {
-    color: #08fa9d;
+    color: #08f2fa;
+}
+/* 鼠标样式 */
+body {
+    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),
+        default;
+}
+a,
+img {
+    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),
+        default;
 }
